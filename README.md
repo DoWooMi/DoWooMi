@@ -22,14 +22,9 @@
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
 <br>    
 <br>
-<br>  
   
 #### 🐣  Study Log  🐣
    <a href="https://velog.io/@iui9686"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@iui9686) 
   
-<br>    
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoWooMi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  
